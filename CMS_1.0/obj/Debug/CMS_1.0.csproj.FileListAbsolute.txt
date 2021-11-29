@@ -1,0 +1,15 @@
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1.0.csprojAssemblyReference.cache
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1._0.formLogin.resources
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1._0.formRegister.resources
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1._0.Properties.Resources.resources
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1.0.csproj.GenerateResource.cache
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1.0.csproj.CoreCompileInputs.cache
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\bin\Debug\CMS_1.0.exe.config
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\bin\Debug\CMS_1.0.exe
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\bin\Debug\CMS_1.0.pdb
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1.0.exe
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1.0.pdb
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1._0.formDashboard.resources
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1._0.insertRecord.resources
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1._0.deleteRecord.resources
+C:\Users\Kali\source\repos\CMS_1.0\CMS_1.0\obj\Debug\CMS_1._0.updateRecord.resources
